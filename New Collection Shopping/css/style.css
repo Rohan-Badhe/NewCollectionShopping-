@@ -2742,11 +2742,11 @@ footer {
 @media (max-width: 700px) {
 
   .logo {
-    width: 125px;
+    width: 145px;
   }
 
   .logo img {
-    max-height: 52px;
+    max-height: 72px;
     object-fit: contain;
   }
 
